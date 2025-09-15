@@ -1,0 +1,16 @@
+{
+  "LoginPage": {
+    "title": "Welcome to Viraasat Connect",
+    "subtitle": "Connecting local artisans with a broader digital audience.",
+    "buyerTab": "Buyer",
+    "artisanTab": "Artisan",
+    "buyerTitle": "Explore the Marketplace",
+    "buyerDescription": "Discover unique, handcrafted goods from talented artisans.",
+    "artisanTitle": "Artisan Dashboard",
+    "artisanDescription": "Manage your products, story, and sales with ease.",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "buyerButton": "Enter as Buyer",
+    "artisanButton": "Enter as Artisan"
+  }
+}

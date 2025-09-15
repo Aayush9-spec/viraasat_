@@ -1,0 +1,217 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "login-cover",
+      "description": "A vibrant marketplace scene with handcrafted goods.",
+      "imageUrl": "https://images.unsplash.com/photo-1699308066230-6e90713e28e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsb2NhbCUyMGFydGlzYW58ZW58MHx8fHwxNzU3ODQ4MjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "artisan market"
+    },
+    {
+      "id": "hero-background",
+      "description": "An artistic, misty landscape or artisan workspace.",
+      "imageUrl": "https://picsum.photos/seed/300/1920/1080",
+      "imageHint": "misty landscape"
+    },
+    {
+      "id": "banner-diwali",
+      "description": "A beautiful banner for Diwali with lights and festive elements.",
+      "imageUrl": "https://picsum.photos/seed/diwali-banner/1920/500",
+      "imageHint": "diwali festival"
+    },
+    {
+      "id": "banner-eid",
+      "description": "An elegant banner for Eid with crescents and lanterns.",
+      "imageUrl": "https://picsum.photos/seed/eid-banner/1920/500",
+      "imageHint": "eid festival"
+    },
+    {
+      "id": "banner-rakhi",
+      "description": "An elegant banner for Raksha Bandhan with intricate designs.",
+      "imageUrl": "https://picsum.photos/seed/rakhi-banner/1920/500",
+      "imageHint": "rakhi festival"
+    },
+    {
+      "id": "product-1",
+      "description": "A handcrafted ceramic pot with a serene azure glaze.",
+      "imageUrl": "https://images.unsplash.com/photo-1640425441723-762b6fe95fa6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNHx8Z2xhemUlMjBwb3R8ZW58MHx8fHwxNzU3ODc2MDY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ceramic pot"
+    },
+    {
+      "id": "product-2",
+      "description": "An intricate silver necklace with a central turquoise stone.",
+      "imageUrl": "https://images.unsplash.com/photo-1714734071000-5546c90735cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNnx8dHVycXVvaXNlJTIwbmVja2xhY2V8ZW58MHx8fHwxNzU3ODc2OTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "silver necklace"
+    },
+    {
+      "id": "product-3",
+      "description": "A handwoven textile with geometric patterns in earthy tones.",
+      "imageUrl": "https://images.unsplash.com/photo-1726207875267-2f56e011cc68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3b3ZlbiUyMHxlbnwwfHx8fDE3NTc4NzY3NDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woven textile"
+    },
+    {
+      "id": "product-4",
+      "description": "An abstract oil painting with bold, vibrant colors.",
+      "imageUrl": "https://images.unsplash.com/photo-1658942933280-af564e967643?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOXx8Y2hyb21hdGljJTIwYnVyc3R8ZW58MHx8fHwxNzU3ODc2NjM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract painting"
+    },
+    {
+      "id": "product-5",
+      "description": "A beautiful hand-sculpted clay idol of Lord Ganesh.",
+      "imageUrl": "https://images.unsplash.com/photo-1717943027615-6460a0a6e1fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8Z2FuZXNoJTIwY2xheSUyMGlkb2x8ZW58MHx8fHwxNzU3ODc2NDcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ganesh idol"
+    },
+    {
+      "id": "product-6",
+      "description": "An elegant Rakhi crafted from pure silver, designed to be worn as a bracelet.",
+      "imageUrl": "https://images.unsplash.com/photo-1641324113963-073b4b8dc86a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxN3x8c2lsdmVyJTIwcmFrc2hhYmFuZGhhbnxlbnwwfHx8fDE3NTc4NzYyNTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "silver rakhi"
+    },
+    {
+      "id": "artisan-1",
+      "description": "Profile picture of an artisan.",
+      "imageUrl": "https://picsum.photos/seed/201/200/200",
+      "imageHint": "artisan portrait"
+    },
+    {
+      "id": "artisan-2",
+      "description": "Profile picture of an artisan.",
+      "imageUrl": "https://picsum.photos/seed/202/200/200",
+      "imageHint": "artisan person"
+    },
+    {
+      "id": "artisan-3",
+      "description": "Profile picture of an artisan.",
+      "imageUrl": "https://picsum.photos/seed/203/200/200",
+      "imageHint": "artisan woman"
+    },
+    {
+      "id": "scrolly-1",
+      "description": "Close-up of raw, high-quality clay or natural fibers.",
+      "imageUrl": "https://picsum.photos/seed/scrolly1/800/1200",
+      "imageHint": "raw clay"
+    },
+    {
+      "id": "scrolly-2",
+      "description": "An artisan's hands skillfully working on a piece of craft.",
+      "imageUrl": "https://picsum.photos/seed/scrolly2/800/1200",
+      "imageHint": "artisan hands"
+    },
+    {
+      "id": "scrolly-3",
+      "description": "A finished product being used in a beautiful, sustainable home environment.",
+      "imageUrl": "https://picsum.photos/seed/scrolly3/800/1200",
+      "imageHint": "sustainable home"
+    },
+    {
+      "id": "material-silk",
+      "description": "Close-up texture of woven silk fabric.",
+      "imageUrl": "https://picsum.photos/seed/material1/600/600",
+      "imageHint": "silk texture"
+    },
+    {
+      "id": "material-brass",
+      "description": "Close-up texture of hammered brass.",
+      "imageUrl": "https://picsum.photos/seed/material2/600/600",
+      "imageHint": "hammered brass"
+    },
+    {
+      "id": "material-clay",
+      "description": "Close-up texture of wet clay on a potter's wheel.",
+      "imageUrl": "https://picsum.photos/seed/material3/600/600",
+      "imageHint": "wet clay"
+    },
+    {
+      "id": "material-wood",
+      "description": "Close-up texture of aged wood grain.",
+      "imageUrl": "https://picsum.photos/seed/material4/600/600",
+      "imageHint": "wood grain"
+    },
+    {
+      "id": "material-gemstone",
+      "description": "An assortment of colorful raw gemstones.",
+      "imageUrl": "https://picsum.photos/seed/material5/600/600",
+      "imageHint": "raw gemstones"
+    },
+    {
+      "id": "material-leather",
+      "description": "A roll of rich, brown vegetable-tanned leather.",
+      "imageUrl": "https://picsum.photos/seed/material6/600/600",
+      "imageHint": "tanned leather"
+    },
+    {
+      "id": "vignette-1",
+      "description": "A cozy living room with a woven throw on the sofa.",
+      "imageUrl": "https://picsum.photos/seed/vignette1/1200/800",
+      "imageHint": "cozy livingroom"
+    },
+    {
+      "id": "vignette-2",
+      "description": "A minimalist desk setup with a ceramic pot and a plant.",
+      "imageUrl": "https://picsum.photos/seed/vignette2/800/800",
+      "imageHint": "minimalist desk"
+    },
+    {
+      "id": "vignette-3",
+      "description": "A modern living room with a colorful abstract painting on the wall.",
+      "imageUrl": "https://picsum.photos/seed/vignette3/800/800",
+      "imageHint": "modern livingroom"
+    },
+    {
+      "id": "vignette-4",
+      "description": "A person wearing a beautiful silver and turquoise necklace.",
+      "imageUrl": "https://picsum.photos/seed/vignette4/800/800",
+      "imageHint": "person necklace"
+    },
+    {
+      "id": "vignette-5",
+      "description": "A rustic kitchen scene with decorative wooden spoons on the counter.",
+      "imageUrl": "https://picsum.photos/seed/vignette5/1200/800",
+      "imageHint": "rustic kitchen"
+    },
+    {
+      "id": "vignette-6",
+      "description": "A close-up of a person's ear, showing an elegant pearl earring.",
+      "imageUrl": "https://picsum.photos/seed/vignette6/800/800",
+      "imageHint": "pearl earring"
+    },
+    {
+      "id": "live-showcase-promo",
+      "description": "An artisan carefully working in their sunlit workshop.",
+      "imageUrl": "https://picsum.photos/seed/livepromo/800/450",
+      "imageHint": "artisan workshop"
+    },
+    {
+      "id": "legacy-jaipur-ambience",
+      "description": "An atmospheric shot of Jaipur's architecture and blue pottery.",
+      "imageUrl": "https://picsum.photos/seed/jaipur1/1000/600",
+      "imageHint": "jaipur architecture"
+    },
+    {
+      "id": "legacy-jaipur-map",
+      "description": "A stylized map highlighting the Jaipur region.",
+      "imageUrl": "https://picsum.photos/seed/jaipur2/600/600",
+      "imageHint": "jaipur map"
+    },
+    {
+      "id": "legacy-kutch-ambience",
+      "description": "Vibrant textiles and the arid landscape of Kutch.",
+      "imageUrl": "https://picsum.photos/seed/kutch1/1000/600",
+      "imageHint": "kutch landscape"
+    },
+    {
+      "id": "legacy-kutch-map",
+      "description": "A stylized map highlighting the Kutch region.",
+      "imageUrl": "https://picsum.photos/seed/kutch2/600/600",
+      "imageHint": "kutch map"
+    },
+    {
+      "id": "heirloom-1",
+      "description": "A cozy scene with a throw blanket on a couch during New Year's, with fireworks outside.",
+      "imageUrl": "https://picsum.photos/seed/heirloom1/800/450",
+      "imageHint": "cozy newyear"
+    }
+  ]
+}
+
+    
