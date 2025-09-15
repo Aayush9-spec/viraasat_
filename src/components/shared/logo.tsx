@@ -8,7 +8,7 @@ type LogoProps = {
 export function Logo({ className }: LogoProps) {
   return (
     <div className={cn("flex items-center gap-2 text-primary", className)}>
-      <span className="text-2xl font-bold font-headline tracking-wider">Heritage</span>
+      <span className="text-2xl font-bold font-headline tracking-wider">Viraasat</span>
     </div>
   );
 }

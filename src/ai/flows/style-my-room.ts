@@ -51,7 +51,7 @@ const styleMyRoomFlow = ai.defineFlow(
     }));
 
     const promptText = `
-      You are an expert interior designer for the "Heritage" marketplace.
+      You are an expert interior designer for the "Viraasat" marketplace.
       Your task is to re-imagine the user's room based on a selected theme and products.
 
       **Theme:** ${theme}

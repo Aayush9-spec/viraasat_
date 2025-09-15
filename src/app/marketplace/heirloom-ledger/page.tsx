@@ -26,7 +26,7 @@ export default function HeirloomLedgerPage() {
       type: "purchase",
       date: "2023-05-20",
       title: "The Journey Begins",
-      text: "Acquired from Heritage, originally crafted by " + artisan.shopName,
+      text: "Acquired from Viraasat, originally crafted by " + artisan.shopName,
       imageUrl: product.imageUrls[0].url,
       imageHint: product.imageUrls[0].hint,
     },

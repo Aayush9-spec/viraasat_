@@ -16,7 +16,7 @@ export const UserPreferencesProvider = ({ children }: { children: ReactNode }) =
   // Load preferences from localStorage on initial render
   useEffect(() => {
     try {
-      const savedPincode = localStorage.getItem('heritage-pincode');
+      const savedPincode = localStorage.getItem('viraasat-pincode');
       if (savedPincode) {
         setPincodeState(savedPincode);
       }
@@ -28,10 +28,10 @@ export const UserPreferencesProvider = ({ children }: { children: ReactNode }) =
   const setPincode = (newPincode: string) => {
     if (newPincode.length === 6 && /^\d+$/.test(newPincode)) {
         setPincodeState(newPincode);
-        localStorage.setItem('heritage-pincode', newPincode);
+        localStorage.setItem('viraasat-pincode', newPincode);
     } else {
         setPincodeState(null);
-        localStorage.removeItem('heritage-pincode');
+        localStorage.removeItem('viraasat-pincode');
     }
   };
 

@@ -94,7 +94,7 @@ export default function MarketplaceHeader() {
                 <Link href="/marketplace/vignettes">Vignettes</Link>
               </DropdownMenuItem>
                <DropdownMenuItem asChild>
-                <Link href="/marketplace/stylist">Heritage Stylist</Link>
+                <Link href="/marketplace/stylist">Viraasat Stylist</Link>
               </DropdownMenuItem>
                <DropdownMenuItem asChild>
                 <Link href="/marketplace/heirloom-ledger" className="flex items-center gap-2">
@@ -176,7 +176,7 @@ export default function MarketplaceHeader() {
                   className="flex items-center gap-2 text-lg font-semibold"
                 >
                   <Logo />
-                  <span className="sr-only">Heritage</span>
+                  <span className="sr-only">Viraasat</span>
                 </Link>
                 <div className="w-full">
                     <SearchBar />
@@ -185,7 +185,7 @@ export default function MarketplaceHeader() {
                 <Link href="/marketplace/creators" className="text-muted-foreground hover:text-foreground">Artisan Map</Link>
                 <Link href="/marketplace/sensory-archive" className="text-muted-foreground hover:text-foreground">Sensory Archive</Link>
                 <Link href="/marketplace/vignettes" className="text-muted-foreground hover:text-foreground">Vignettes</Link>
-                <Link href="/marketplace/stylist" className="text-muted-foreground hover:text-foreground">Heritage Stylist</Link>
+                <Link href="/marketplace/stylist" className="text-muted-foreground hover:text-foreground">Viraasat Stylist</Link>
                 <Link href="/marketplace/heirloom-ledger" className="text-muted-foreground hover:text-foreground flex items-center gap-2">
                   <BookUser className="h-4 w-4" /> Heirloom Ledger
                 </Link>

@@ -47,7 +47,7 @@ export default function MarketplacePage() {
         >
           <p className="text-lg md:text-xl font-headline">Explore Our Collection</p>
           <h1 className="text-6xl md:text-8xl font-bold font-headline my-2">
-            Heritage
+            Viraasat
           </h1>
           <p className="text-base md:text-lg max-w-2xl mx-auto">
             Discover the essence of traditional art in our artisan marketplace. Find pieces you'll cherish for seasons to come, direct from the creators.

@@ -45,7 +45,7 @@ const prompt = ai.definePrompt({
   name: 'suggestGiftsPrompt',
   input: {schema: SuggestGiftsInputSchema},
   output: {schema: SuggestGiftsOutputSchema},
-  prompt: `You are a thoughtful and expert gift concierge for "Heritage," a marketplace for high-end artisanal goods. Your task is to provide personalized gift recommendations.
+  prompt: `You are a thoughtful and expert gift concierge for "Viraasat," a marketplace for high-end artisanal goods. Your task is to provide personalized gift recommendations.
 
 **Context:**
 - Recipient: {{recipient}}

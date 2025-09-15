@@ -15,11 +15,11 @@ import PageTransition from '../shared/page-transition';
 import AnimatedHeading from '../shared/animated-heading';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '../ui/select';
 
-interface HeritageStylistClientProps {
+interface ViraasatStylistClientProps {
   allProducts: Product[];
 }
 
-export default function HeritageStylistClient({ allProducts }: HeritageStylistClientProps) {
+export default function ViraasatStylistClient({ allProducts }: ViraasatStylistClientProps) {
   const [originalImage, setOriginalImage] = useState<string | null>(null);
   const [styledImage, setStyledImage] = useState<string | null>(null);
   const [selectedProductIds, setSelectedProductIds] = useState<string[]>([]);
@@ -83,7 +83,7 @@ export default function HeritageStylistClient({ allProducts }: HeritageStylistCl
     <PageTransition>
       <div className="container mx-auto px-4 py-8">
         <div className="text-center mb-12">
-            <AnimatedHeading text="Heritage Stylist" className="text-4xl md:text-5xl font-headline font-bold" />
+            <AnimatedHeading text="Viraasat Stylist" className="text-4xl md:text-5xl font-headline font-bold" />
             <p className="mt-4 text-lg text-muted-foreground max-w-3xl mx-auto">
                 Upload a photo of your space, select inspirational products, and let our AI stylist create a bespoke look for your home.
             </p>

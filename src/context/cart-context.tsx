@@ -29,7 +29,7 @@ export const CartProvider = ({ children }: { children: ReactNode }) => {
   // Load cart from localStorage on initial render
   useEffect(() => {
     try {
-      const savedCart = localStorage.getItem('heritage-cart');
+      const savedCart = localStorage.getItem('viraasat-cart');
       if (savedCart) {
         setCartItems(JSON.parse(savedCart));
       }
@@ -40,7 +40,7 @@ export const CartProvider = ({ children }: { children: ReactNode }) => {
 
   // Save cart to localStorage whenever it changes
   useEffect(() => {
-    localStorage.setItem('heritage-cart', JSON.stringify(cartItems));
+    localStorage.setItem('viraasat-cart', JSON.stringify(cartItems));
     // Also save the last added product ID to a cookie for server components
     if (cartItems.length > 0) {
       const lastItem = cartItems[cartItems.length - 1];
@@ -79,7 +79,7 @@ export const CartProvider = ({ children }: { children: ReactNode }) => {
 
   const clearCart = () => {
     setCartItems([]);
-    localStorage.removeItem('heritage-cart');
+    localStorage.removeItem('viraasat-cart');
     Cookies.remove('lastProductId');
   };
 

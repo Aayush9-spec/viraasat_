@@ -9,7 +9,7 @@ import { FeatherlightProvider } from '@/context/featherlight-context';
 import { UserPreferencesProvider } from '@/context/user-preferences-context';
 
 export const metadata: Metadata = {
-  title: 'Heritage Connect',
+  title: 'Viraasat Connect',
   description: 'An AI-powered marketplace for local artisans.',
 };
 

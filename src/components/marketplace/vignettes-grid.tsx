@@ -19,7 +19,7 @@ const VignettesGrid: React.FC<VignettesGridProps> = ({ vignettes, products }) =>
   return (
     <PageTransition>
       <div className="text-center mb-12">
-        <AnimatedHeading text="Vignettes of Heritage" className="text-4xl md:text-5xl font-headline font-bold" />
+        <AnimatedHeading text="Vignettes of Viraasat" className="text-4xl md:text-5xl font-headline font-bold" />
         <p className="mt-4 text-lg text-muted-foreground max-w-3xl mx-auto">
           See our handcrafted pieces in their new homes. Authentic stories and styles from our community.
         </p>

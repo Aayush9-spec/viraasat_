@@ -48,7 +48,7 @@ const prompt = ai.definePrompt({
   name: 'generateCuratedCollectionPrompt',
   input: {schema: GenerateCuratedCollectionInputSchema},
   output: {schema: GenerateCuratedCollectionOutputSchema},
-  prompt: `You are an expert curator and interior designer for a high-end artisan marketplace called "Heritage." Your task is to create a personalized "Curator's Desk" mood board for a returning user.
+  prompt: `You are an expert curator and interior designer for a high-end artisan marketplace called "Viraasat." Your task is to create a personalized "Curator's Desk" mood board for a returning user.
 
 Based on the user's interests, you will generate a visually appealing and thematically coherent collection for a 4-column grid.
 
