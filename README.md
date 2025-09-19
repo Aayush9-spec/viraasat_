@@ -1,6 +1,6 @@
-# Viraasat Connect
+# Viraasat
 
-Welcome to **Viraasat Connect**, an AI-powered e-commerce platform designed to connect local artisans with a global digital audience. This application showcases a modern, feature-rich marketplace experience built with Next.js, Genkit for AI, and ShadCN for UI components.
+Welcome to **Viraasat**, an AI-powered e-commerce platform designed to connect local artisans with a global digital audience. This application showcases a modern, feature-rich marketplace experience built with Next.js, Genkit for AI, and ShadCN for UI components.
 
 ## ✨ Key Features
 
